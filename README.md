@@ -1,4 +1,4 @@
-# Solution of Team IMR for MICCAI 2023 LNQ Challenge
+![image](https://github.com/Hanx-Zhang/Lymph-Node-Mapping/assets/47120259/1affe60c-7074-4132-b1f3-f4435e9adeb9)# Solution of Team IMR for MICCAI 2023 LNQ Challenge
 
 ***
 
@@ -13,6 +13,9 @@ Built upon [nnUNet](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/), this rep
 
 
 ## Additonal data
-In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are partially annotated (i.e. one node out of five), this solution leverages two additional data with full mediastinal lynph node annotations in training process. Both additional data are publicly available.
+In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are partially annotated (i.e. one node out of five), this solution leverages two additional data with full mediastinal lynph node annotations in training process. Both additional data are publicly available.  
+**TICA data with refined annotations**  
+**St. Olavs University Hospital Data** 
+
 
 ## Instructions for running
