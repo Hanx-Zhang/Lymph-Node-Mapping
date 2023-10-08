@@ -43,4 +43,4 @@ In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are parti
 ### 1.5 Model finetuning using total cohort
 - The total cohort includes the full-annotation data and LNQ data with pseudo label transfer
 - Finetune the former model parameters using this total cohort for 300 epochs
-It is suboptimal to use straight off the shelf for fully supervised pixel-wise segmentation purposes.
+It is suboptimal to use straight off the shelf for fully supervised pixel-wise segmentation purposes. ds 
