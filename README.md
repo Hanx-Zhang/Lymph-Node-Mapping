@@ -9,14 +9,7 @@ Built upon [nnUNet](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/), this rep
 
 ***
 
-## Environments and Requirements
-Install nnUNet as below and meet the requirements of nnUNet. For more details please refer to [https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/)  
-```
-git clone https://github.com/MIC-DKFZ/nnUNet.git
-cd nnUNet
-git checkout nnunetv1
-pip install -e .
-```
+
 
 
 ## Additonal data
@@ -27,6 +20,17 @@ In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are parti
 
 **St. Olavs Hospital data**  
 [Original St. Olavs Hospital data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mj76c) consists of 17 CTs, among which 15 contrast-enhanced CTs were first assigned their manual annotations of lymph nodes and fifteen different anatomical structures in the mediastinal area ([Bouget et al. 2019](https://link.springer.com/article/10.1007/s11548-019-01948-8)). These lymph node annotations of the 15 CTs were further refined and proofed by an expert thoracic radiologist, as a benchmark dataset of [Bouget et al. 2023](https://github.com/dbouget/ct_mediastinal_structures_segmentation).
+
+
+## Environments and Requirements
+Install nnUNet as below and meet the requirements of nnUNet. For more details please refer to [https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/)  
+```
+git clone https://github.com/MIC-DKFZ/nnUNet.git
+cd nnUNet
+git checkout nnunetv1
+pip install -e .
+```
+
 
 ## Instructions for training
 ### 1.1 Airway-guided pre-processing  
