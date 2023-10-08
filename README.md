@@ -16,7 +16,7 @@ Built upon [nnUNet](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1/), this rep
 In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are partially annotated (i.e. one node out of five), this solution leverages two additional data with full mediastinal lynph node annotations in training process. Both additional data are publicly available.  
 
 **TICA data with refined annotations**  
-[Original TICA data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546#19726546fcb14b04d2494090ab696ba899c8d70c/) consists of 90 contrast-enhanced CTs of the mediastinum with partial lymph node position labels marked by radiologists at the National Institutes of Health (NIH). Case 43
+[Original TICA data](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546#19726546fcb14b04d2494090ab696ba899c8d70c/) consists of 90 contrast-enhanced CTs of the mediastinum with lymph node position labels marked by radiologists at the National Institutes of Health (NIH). Case 43
 
 **St. Olavs University Hospital Data** 
 
