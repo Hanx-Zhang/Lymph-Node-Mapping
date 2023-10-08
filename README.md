@@ -1,4 +1,4 @@
-![image](https://github.com/Hanx-Zhang/Lymph-Node-Mapping/assets/47120259/f1ddf9f6-9028-4d34-9980-ae5d91a030b3)# Solution of Team IMR for MICCAI 2023 LNQ Challenge
+# Solution of Team IMR for MICCAI 2023 LNQ Challenge
 
 ***
 
@@ -22,3 +22,4 @@ In that [LNQ training data](https://lnq2023.grand-challenge.org/data/) are parti
 
 
 ## Instructions for running
+It is suboptimal to use straight off the shelf for fully supervised pixel-wise segmentation purposes.
