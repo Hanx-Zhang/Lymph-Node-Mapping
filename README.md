@@ -1,4 +1,4 @@
-![image](https://github.com/Hanx-Zhang/Lymph-Node-Mapping/assets/47120259/1affe60c-7074-4132-b1f3-f4435e9adeb9)# Solution of Team IMR for MICCAI 2023 LNQ Challenge
+# Solution of Team IMR for MICCAI 2023 LNQ Challenge
 
 ***
 
