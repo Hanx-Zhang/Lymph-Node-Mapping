@@ -1,4 +1,5 @@
 # Solution of Team IMR for MICCAI 2023 LNQ Challenge
+-https://img.shields.io/badge/CC-BY-NC-blue
 
 ***
 
